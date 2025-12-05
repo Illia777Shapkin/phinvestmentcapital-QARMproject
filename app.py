@@ -2215,7 +2215,7 @@ It does <strong>not<strong> offer personalized investment recommendations or spe
                     • **Meet the Team**
                       - Presents the core team members with their roles (e.g. Quant & Portfolio Strategy, CIO & Quantitative Research, CFO, client-facing roles, etc.).
                       - Highlights the blend of quantitative expertise, portfolio engineering, and client focus behind the platform.
-                      - Team members: Illia Shapkin (Quant & Portfolio Strategy) , Rean Morinaj  (CIO & Quantitative Research), Malek Trimeche (Client Relations), Petrit Gashi (CFO - Finance & Operations)
+                      - Team members: Illia Shapkin (CEO & Quant & Portfolio Strategy) , Rean Morinaj  (Touriste), Malek Trimeche (Touriste), Petrit Gashi (Touriste)
 
                       
                     
