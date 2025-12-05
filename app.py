@@ -3352,7 +3352,7 @@ def page_our_team():
         <div class="team-member">
             <img src="data:image/jpeg;base64,{illia_img}">
             <div class="member-name">Illia Shapkin</div>
-            <div class="member-role">Quant & Portfolio Strategy</div>
+            <div class="member-role">CEO, Quant & Portfolio Strategy</div>
             <div class="member-bio">Focused on risk analysis and optimization. Data-driven decision maker.</div>
             <div class="linkedin"><a href="https://www.linkedin.com/in/illia-shapkin-b1956b226/" target="_blank">LinkedIn</a></div>
         </div>
